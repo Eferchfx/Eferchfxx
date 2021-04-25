@@ -6,9 +6,6 @@
 
 - 💡 I’m currently learning C# and JS
 
-### Spotify Playing 🎧
-[<img src="https://novatorem.cankcygt.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/shadowpro98?si=Cy5L7C8jTJaEcK6G2-4Mhg)
-
 ### Connect with me:
 
 [<img align="left" alt="Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />](https://discord.gg/TEtmBv6H88)
