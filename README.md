@@ -6,7 +6,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />](https://discord.gg/TEtmBv6H88)
 [<img align="left" alt="Youtube" width="44px" src="https://i.ibb.co/nkYg5PZ/icons8-play-button-48.png" />](https://www.youtube.com/channel/UCj6SZ8jb9plK0YyIdyVXHnw)
 
 <br />
