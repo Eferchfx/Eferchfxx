@@ -1,10 +1,8 @@
 ### Hi there, I'm Eferchfx 👋
 
-[![Discord](https://img.shields.io/discord/749381621588951092?color=%237289da&label=MY%20DISCORD&logo=Discord&style=for-the-badge)](https://discord.gg/TEtmBv6H88)
-
 ## I'm a Student, and Developer!
 
-- 💡 I’m currently learning C# and JS
+- 💡 I’m currently learning C# and C++
 
 ### Connect with me:
 
